@@ -15,3 +15,8 @@ func main() {
 	//y = 43   --->  cannot use 43 (type untyped int) as type string in assignment
 
 }
+
+// 22
+// int
+// hello
+// string
