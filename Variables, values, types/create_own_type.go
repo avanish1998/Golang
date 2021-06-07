@@ -15,9 +15,12 @@ func main() {
 	fmt.Println(y)
 	fmt.Printf("%T\n", y)
 	// b = a  -->  doesnt work
+	y = avanish(x) // this work, conversion, not casting
+	fmt.Println(y)
 }
 
 // 40
 // int
 // 60
 // main.avanish
+// 40
