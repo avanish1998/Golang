@@ -8,6 +8,7 @@ func main() {
 	var x = 22
 	fmt.Println(x)
 	fmt.Printf("%T\n", x) // prints type of x
+	fmt.Printf("%b\n", x) // prints binary value of x
 
 	var y = "hello"
 	fmt.Println(y)
@@ -18,5 +19,6 @@ func main() {
 
 // 22
 // int
+// 10110
 // hello
 // string
