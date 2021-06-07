@@ -5,8 +5,14 @@ import (
 )
 
 func main() {
-	x := 69 // declaration
+	x := 69 // declare and assign
 	fmt.Println(x)
-	x = 420 // re-initialization
-	fmt.Print(x)
+	x = 420 // assigning new value
+	fmt.Println(x)
+	y := x + x
+	fmt.Print(y)
 }
+
+// 69
+// 420
+// 840
