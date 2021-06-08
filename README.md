@@ -1,8 +1,9 @@
 # Golang
-Golang zero to hero
+Golang zero to hero.
+This repo contains a list of fundamental programs in the process of learning Golang.
 
-1. fmt package
-    https://pkg.go.dev/fmt
+References :-
 
-2. Datatypes in Go
-    https://golang.org/ref/spec#Numeric_types
+ 1. fmt package https://pkg.go.dev/fmt
+
+ 2. Datatypes in Go https://golang.org/ref/spec#Numeric_types
